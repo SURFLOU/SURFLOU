@@ -1,10 +1,10 @@
 <div id="main" align="center">
   <h1> Hi, I'm Piotr👋 </h1>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/piotr-konopka-31820b241/">
+  <a>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://piotrkonopka.com">
+  <a>
     <img src="https://img.shields.io/badge/-My website-red?style=for-the-badge&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
