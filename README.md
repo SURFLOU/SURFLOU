@@ -1,5 +1,5 @@
 <div id="main" align="center">
-  <h1> Hi, I'm Piotr👋 </h1>
+  <h1> Hi 👋 </h1>
   <div id="badges">
   <a>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,8 +15,7 @@
 
 ### 💬 About me 
 - 🔭 I’m studying IT in Warsaw <br>
-- 🌱 I’m currently learning and programming in data science, AI and Python <br>
-- 🤔 At the moment I'm working as an IT specialist with German
+- 🌱 I'm working as a data analyst <br>
   
 
 
