@@ -1,13 +1,5 @@
 <div id="main" align="center">
   <h1> Hi 👋 </h1>
-  <div id="badges">
-  <a>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/-My website-red?style=for-the-badge&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
 </div> 
 
 ---
